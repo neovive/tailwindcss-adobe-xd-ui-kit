@@ -2,38 +2,19 @@
   <a href="https://tailwindcss.com/">
       <img width="100" height="100" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
   </a>
-  <a href="https://webpack.js.org/">
-    <img width="200" height="100" vspace="" hspace="25" src="https://cdn.worldvectorlogo.com/logos/sketch-1.svg">
-  </a>
-  <h1>Sketch UI Kit for Tailwind CSS</h1>
+    <img width="200" height="100" vspace="" hspace="25" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">
+
+  <h1>Adobe XD UI Kit for Tailwind CSS</h1>
 </div>
 
-[![GitHub release](https://img.shields.io/github/release/jessedobbelaere/tailwindcss-sketch-kit.svg)](https://github.com/jessedobbelaere/tailwindcss-sketch-kit/releases/latest)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
-
-<kbd>
-  <a href="https://github.com/jessedobbelaere/tailwindcss-sketch-kit/raw/master/Tailwind%20CSS.sketch"><img alt="Preview Sketch UI Kit for Tailwind CSS" src="images/preview.png" /></a>
-</kbd>
-
-🔎 See a [detailed preview of the artboards](images/preview.pdf)
+🔎 See a [detailed preview of the artboards](images/preview.png)
 
 ## Features
 
 - [All Tailwind v2 CSS colors available](https://tailwindcss.com/docs/customizing-colors#color-palette-reference), typography styles, shadows, button, spacers/containers and basic form symbols.
 - Uses the [Inter font](https://github.com/rsms/inter) as used frequently, e.g. in [TailwindUI](https://tailwindui.com/).
-- A `.sketchpalette` colors file available for the [Sketch Palettes plugin](https://github.com/andrewfiorillo/sketch-palettes).
 - Icons included: [Heroicons UI by Steve Schoger and Adam Wathan](https://github.com/refactoringui/heroicons)
 
 ## Changelog
 
-Check out the [CHANGELOG](CHANGELOG.md) in this repository for all the recent changes.
-
-## Maintainers
-
-Tailwindcss Sketch Kit is developed and maintained by [@jessedobbelaere](twitter.com/jessedobbelaere).
-
-## License
-
-Tailwindcss Sketch Kit is open-sourced software licensed under [the MIT license](LICENSE.md).
-
-Credits to [impulse/tailwindcss-figma-kit](https://github.com/impulse/tailwindcss-figma-kit) for the inspiration.
+This project is a fork of the [Tailwind Sketch Kit](https://github.com/jessedobbelaere/tailwindcss-sketch-kit) and converted to Adobe XD.
