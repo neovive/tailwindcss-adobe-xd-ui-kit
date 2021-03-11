@@ -11,10 +11,12 @@
 
 ## Features
 
-- [All Tailwind v2 CSS colors available](https://tailwindcss.com/docs/customizing-colors#color-palette-reference), typography styles, shadows, button, spacers/containers and basic form symbols.
+- [Includes components for the default Tailwind v2 colors](https://tailwindcss.com/docs/customizing-colors#color-palette-reference), typography styles, shadows, buttons, spacers/containers, basic form elements, gradients, and navbars.
+
 - Uses the [Inter font](https://github.com/rsms/inter) as used frequently, e.g. in [TailwindUI](https://tailwindui.com/).
+
+- Includes components for the [Tailwind Typography plug-in](https://tailwindcss-typography.netlify.app/).
+
 - Icons included: [Heroicons UI by Steve Schoger and Adam Wathan](https://github.com/refactoringui/heroicons)
 
-## Changelog
-
-This project is a fork of the [Tailwind Sketch Kit](https://github.com/jessedobbelaere/tailwindcss-sketch-kit) and converted to Adobe XD.
+This project is forked from the excellent [Tailwind Sketch Kit](https://github.com/jessedobbelaere/tailwindcss-sketch-kit) and converted to Adobe XD.
